@@ -1,0 +1,40 @@
+[{
+    
+	"question": "Największy budynek swiata to",
+	"answers": [
+		"1) Burj Khalifa",
+		"2) Wieża Eiffla",
+		"3) Baszta Łowicka",
+		"4) Panteon"
+	],
+	"correct_answer": 1
+
+},
+
+
+{
+	"question": "Najlepszy system operacyjny",
+	"answers": [
+		"1) Android",
+		"2) iOS",
+		"3) Linux",
+		"4) Windows"
+	],
+	"correct_answer": 2
+},
+
+
+
+{
+	"question": "Najwiekszy polak na swiecie",
+	"answers": [
+		"1) Abuyin ibn Djadir ibn Omar Kalid ben Hadji al Sharidi",
+		"2) Geralt z Rivii",
+		"3) Kacper Milewski",
+		"4) Mariusz Pudzianowski"
+	],
+	"correct_answer": 4
+}
+
+]
+
